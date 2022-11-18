@@ -11,3 +11,6 @@ The graph looks inverted as it is, the Boot Button rest state is High/1, the raw
 # Data Logging
 The data captured is also send via the USB, and capture by a python script which converts it into a graph of the boot button state, you can find the .py file in the code folder, you can use the script to acquire data from your QtPy board, just update the COM port
 
+
+![pio_sequencer_output](https://user-images.githubusercontent.com/57740824/202589034-3bcc0857-b337-4ad4-8c12-22788ba41460.png)
+
